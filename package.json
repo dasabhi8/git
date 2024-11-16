@@ -1,0 +1,26 @@
+{
+  "name": "gitpackage01132",
+  "version": "1.0.0",
+  "description": "this is purpose for the learning how to publish package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasmeet9/git.git"
+  },
+  "keywords": [
+    "git",
+    "github"
+  ],
+  "author": "dasinterns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dasmeet9/git/issues"
+  },
+  "homepage": "https://github.com/dasmeet9/git#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
